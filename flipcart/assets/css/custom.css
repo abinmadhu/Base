@@ -1,0 +1,43 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.nav-item{
+    letter-spacing: .1em;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.dropdown-item{
+    letter-spacing: .2em;
+    font-size: 14px;
+    text-transform: lowercase;
+}
+.my_footer{
+    background-color: #f8f9fa;
+    height: 60px;
+}
+.my_footer p{
+    padding-top: 20px;
+    font-size: 14px;
+
+}
+/*** category page ***/
+.my_row_class{
+    padding-top: 15px;
+}
+.my_row_class .mx-auto{
+    color: #000;
+    font-size: 12px;
+}
+.my_image{
+    width: 100%;
+    height: auto;
+}
+.my_title{
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 10em;
+}
+.my_image_padding{
+    padding: 5px;
+}
